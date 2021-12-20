@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+.intro_text {
+    margin-right: 150px;
+}
+
+ul {
+    list-style-type:square;
+  }
+
+.float_left {
+    float: left;
+}
+
+.float_right {
+    float: right;
+}
+
+img {
+    width: auto;
+    height: 200px;
+}

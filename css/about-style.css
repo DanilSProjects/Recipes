@@ -1,0 +1,27 @@
+body {
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+ul {
+    list-style-type:square;
+  }
+
+img {
+    width: auto;
+    height: 200px;
+}
+
+figure {
+    text-align: center;
+}
+
+figure figcaption {
+    font-size: 12px;
+    font-weight: lighter;
+    font-style: italic;
+}
